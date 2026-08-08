@@ -1,11 +1,12 @@
-## 💫 About Me:
-### Hello World! I'm Indra Pramudya👋 <br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=1644F7&center=true&vCenter=true&width=435&lines=Hi!+I'm+Indra+Pramudya+%3AD;Welcome+to+my+profile!)](https://git.io/typing-svg)
+---
+### Hi there! I'm Indra Pramudya👋 <br/>
 🌱 I thrive on challenges that sharpen my IT skills.<br/>
 
 💻 As a gamer at heart, I love exploring new horizons and leveling up my tech skills. I'm highly interested in **Web Development, Programming, Network Engineering, Bug Hunting, and Gaming**. Currently, I'm focusing on building cool projects while learning to secure them.
 
 🚀 Always open to exciting collaborations or just a friendly chat about tech!<br/>
-📬 Connect with me on Discord: **iPramzs#6327**
+📬 Connect with me on Discord: **aindragt**
 
 ---
 
