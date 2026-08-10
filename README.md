@@ -9,11 +9,20 @@
 📬 Connect with me on Discord: **aindragt**
 
 ---
+<details>
+<summary><h3>🏆 My Certificate</h3></summary>
+
+- **Bug Hunting** - [Lihat Sertifikat](https://imgur.com/CP5x2fE)
+- **Basic Cyber Security** - [Lihat Sertifikat](https://imgur.com/tGQ9Pdf)
+- **Information Security** - [Lihat Sertifikat](https://imgur.com/tAH8iHI)
+
+</details>
+
 
 <!-- ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/iPramzs) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@aindragt) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@AindraGT) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aindragt@gmail.com) 
 -->
-
+---
 ## 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
